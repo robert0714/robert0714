@@ -37,7 +37,13 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 
+![Robert's github stats](https://github-readme-streak-stats.herokuapp.com/?user=robert0714&hide_border=true)
+
+![Robert's github stats](https://github-profile-trophy.vercel.app/?username=robert0714&hide_border=true)
 
 ![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robert0714&show_icons=true&hide_border=true)
+
+![Robert's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robert0714&layout=donut-vertical&hide_border=true)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=robert0714/robert0714)
